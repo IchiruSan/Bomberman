@@ -5,6 +5,7 @@ Programowanie aplikacyjne
 Język programowania:  C#
 
 Gra Bomberman
+
 Mój projekt zakłada stworzenie gry typu Bomberman w środowisku Unity w języku programowania C# na zasadach oryginalnej gry.
 Projekt będzie polegał na :
 -	stworzeniu mapy gry, 
