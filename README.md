@@ -12,5 +12,6 @@ Projekt będzie polegał na :
 -	utworzenie postaci gracza i przeciwnika (lub przeciwników),
 -	implementacja kolizji obiektów,
 -	wykrywanie wybuchów bomb i aktualizacja mapy,
+
 Zdecydować czy gra będzie w konwencji 2D czy 3D.
 
